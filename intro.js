@@ -20,13 +20,13 @@ const Cake = () => {
         <div>
             <h1> Chocolate flavour </h1>
             <h2> May be strawberry</h2>
-            <Button />;
-            <Footer />;
+            <Button />
+            <Footer />
         </div>
     );
 };
 function Button() {
-    return <h1> K xa yar </h1>;
+    return <h1> K xa yar </h1>
 };
 const Footer = () => {
     return (<footer>

@@ -7,3 +7,5 @@ minification of file
 bundling 
 jsx is not directly understood by the server
 parcel=> babel is used to transform jsx into js 
+
+how to create a react app template using command  npx create-react-app Potter-System
