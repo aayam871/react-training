@@ -1,6 +1,4 @@
-
 .parcel-cache
 dist
-git init
 node_modules
 
